@@ -230,9 +230,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\repos\\AspInternProject1\\WebApplication\\WebApplication\\WebApplication.csproj",
-      "projectName": "WebApplication",
-      "projectPath": "F:\\repos\\AspInternProject1\\WebApplication\\WebApplication\\WebApplication.csproj",
+      "projectUniqueName": "F:\\repos\\AspInternProject1\\WebApplication\\WebApplication\\WebApiApp.csproj",
+      "projectName": "WebApiApp",
+      "projectPath": "F:\\repos\\AspInternProject1\\WebApplication\\WebApplication\\WebApiApp.csproj",
       "packagesPath": "C:\\Users\\ProttoDem\\.nuget\\packages\\",
       "outputPath": "F:\\repos\\AspInternProject1\\WebApplication\\WebApplication\\obj\\",
       "projectStyle": "PackageReference",
